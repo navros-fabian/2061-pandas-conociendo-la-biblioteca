@@ -30,11 +30,15 @@ Analizar el desempeño de las cuatro tiendas de Alura Store Latam y recomendar a
 - Tienda 3: 4.05  
 - Tienda 4: 4.00  
 
+➡️ **La Tienda 1 presenta la menor valoracion promedio.**
+
 ### Costo de Envío Promedio
 - Tienda 1: 26,018  
 - Tienda 2: 25,216  
 - Tienda 3: 24,805  
 - Tienda 4: 23,459  
+
+➡️ **La Tienda 4 presenta el menor costo de envio promedio. Monto que es con cargo al cliente**
 
 ### Categorias con mayor ventas
 
