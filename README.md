@@ -60,4 +60,4 @@ Después de realizar el análisis de la situación actual de las tiendas, tenemo
 Se recomeinda que la principal tienda para ser vendida sea la Tienda 4, ya que es la menos rentable en términos generales, y no representa un aporte económico esperado.
 Invertir a largo plazo en la Tienda 2 por su estabilidad y rentabilidad.
 Identificar los factores de éxito de la Tienda 1 y ver la viabilidad se ser replicados en las demás sucursales.
-Promocionar los mejores productos para atraer más público y mejorar los ingresos manteneindo el buen servicio al cliente en la Tienda.
+Promocionar los mejores productos para atraer más público y mejorar los ingresos manteniendo el buen servicio al cliente en la Tienda.
